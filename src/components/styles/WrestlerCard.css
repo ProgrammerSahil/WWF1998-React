@@ -1,24 +1,24 @@
-.mainWrestlerCard{
-    background-color: black;
-    text-align: center;
-    cursor: pointer;
-    transition-duration: 0.2s;
-    max-width: 300px;
-    max-height: 450px;
-    margin-top: 50px;
+.mainWrestlerCard {
+  background-color: black;
+  text-align: center;
+  cursor: pointer;
+  transition-duration: 0.2s;
+  max-width: 300px;
+  max-height: 450px;
+  margin-top: 50px;
 }
-.mainWrestlerCard:hover{
-    transform: scale(1.05);
-    box-shadow: 0.5px 0.5px 10px rgb(228, 56, 82);
+.mainWrestlerCard:hover {
+  transform: scale(1.05);
+  box-shadow: 0.5px 0.5px 10px rgb(228, 56, 82);
 }
 
-.mainWrestlerCard h3{
-    margin-top: 20px;
-    color:rgb(205, 194, 194);
-    margin: 0px 20px 20px 20px;
+.mainWrestlerCard h3 {
+  margin-top: 20px;
+  color: rgb(205, 194, 194);
+  margin: 0px 20px 20px 20px;
 }
-.mainWrestlerCard img{
-    height:300px;
-    width:auto;
-    margin: 20px;
+.mainWrestlerCard img {
+  height: 300px;
+  width: auto;
+  margin: 20px;
 }

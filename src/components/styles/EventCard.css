@@ -1,23 +1,23 @@
-.eventCard{
-    box-sizing: border-box;
-    text-align: center;
-    padding:30px;
-    background-color: black;
-    cursor: pointer;
-    transition-duration: 0.2s;
-    margin: 10px 20px;
+.eventCard {
+  box-sizing: border-box;
+  text-align: center;
+  padding: 30px;
+  background-color: black;
+  cursor: pointer;
+  transition-duration: 0.2s;
+  margin: 10px 20px;
 }
-.eventCard:hover{
-    transform: scale(1.05);
-    box-shadow: 0.5px 0.5px 10px red;
-}
-
-.eventCard img{
-    height:300px;
-    width:auto;
-    margin-bottom: 15px;
+.eventCard:hover {
+  transform: scale(1.05);
+  box-shadow: 0.5px 0.5px 10px red;
 }
 
-.eventCard h4{
-    color:rgb(205, 194, 194);
+.eventCard img {
+  height: 300px;
+  width: auto;
+  margin-bottom: 15px;
+}
+
+.eventCard h4 {
+  color: rgb(205, 194, 194);
 }
