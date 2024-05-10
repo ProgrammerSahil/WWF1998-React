@@ -11,6 +11,7 @@ function Home(props){
                     <EventCard name="SummerSlam 1998" photo="summerslam98.jpg"/>
                     <EventCard name="WrestleMania 14" photo="wrestlemania98.jpg"/>
                     <EventCard name="King of the Ring 1998" photo="kingofthering98.jpeg"/>
+                    <EventCard name="Survivor Series 1998" photo="survivorseries98.jpeg"/>
                 </div>
             </div>
         </>
