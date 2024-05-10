@@ -11,10 +11,16 @@
 }
 .Home h2{
     color: rgb(231, 234, 237);
+    font-family: "Permanent Marker", cursive;
+    font-weight: 400;
+    font-style: normal;
 }
 .Home .eventDisplay{
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
+    font-family: "Permanent Marker", cursive;
+    font-weight: 400;
+    font-style: normal;
 }
 

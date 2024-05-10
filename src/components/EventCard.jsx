@@ -1,4 +1,4 @@
-import "./EventCard.css";
+import "./styles/EventCard.css";
 
 function EventCard(props){
     return (
