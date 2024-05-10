@@ -1,0 +1,39 @@
+.Header{
+    background-color: black;
+    padding:15px 50px;
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+.Heading{
+    display: flex;
+}
+.Heading img{
+    height:auto;
+    margin-right:20px;
+}
+
+ul{
+    list-style-type: none;
+    line-height: 30px;
+}
+.Header h2{
+    color:hsl(0, 0%, 68%);
+    padding-top: 3px;
+}
+ul li{
+    padding-left:28px;
+    padding-top:6px;
+}
+
+ul li a{
+    cursor: pointer;
+    text-decoration: none;
+    color:hsl(0, 0%, 68%);
+    font-size: 28px;
+    transition-duration: 0.3s;
+}
+ul li a:hover{
+    color:rgb(149, 5, 5);
+    text-shadow: 0.2px 0.2px 5px rgb(134, 126, 126);
+}
