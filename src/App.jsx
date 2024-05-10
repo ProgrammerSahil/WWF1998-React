@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <Header />
-      <Home homeTitle="Rewatch our recent events" />
+      <Home homeTitle="Rewatch our popular events this year" />  /* Enter the top heading here */
       <Footer />
     </>
   )

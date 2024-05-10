@@ -6,7 +6,7 @@ function Header(){
 
     return(
         <header className="Header d-flex justify-content-between">
-            <div className="Heading"><img src={logo} width="50" alt="WWF Logo" /><h2>World Wrestling Federation</h2></div>
+            <div className="Heading"><img src={logo} alt="WWF Logo" /><h2>World Wrestling Federation</h2></div>
             <ul className="d-inline-flex">
                     <li><a href="/">Home</a></li>
                     <li><a href="/">Roster</a></li>
