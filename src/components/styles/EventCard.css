@@ -1,4 +1,4 @@
-.mainCard{
+.eventCard{
     box-sizing: border-box;
     text-align: center;
     padding:30px;
@@ -7,17 +7,17 @@
     transition-duration: 0.2s;
     margin: 10px 20px;
 }
-.mainCard:hover{
+.eventCard:hover{
     transform: scale(1.05);
     box-shadow: 0.5px 0.5px 10px red;
 }
 
-.mainCard img{
-    width:220px;
-    height:280px;
+.eventCard img{
+    height:300px;
+    width:auto;
     margin-bottom: 15px;
 }
 
-.mainCard h4{
+.eventCard h4{
     color:rgb(205, 194, 194);
 }
