@@ -1,10 +1,12 @@
 import "./styles/Home.css"
+import Header from "./Header";
 import pageImage from "../assets/homePageImage.jpeg"
 import EventCard from "./EventCard";
 
 function Home(props){
     return(
         <>
+            <Header at="home"/>
             <div className="Home" style={{backgroundImage : "url(" + pageImage + ")"}}>
                 <h2 className="homeTitle">{props.homeTitle}</h2>
                 <div className="eventDisplay">

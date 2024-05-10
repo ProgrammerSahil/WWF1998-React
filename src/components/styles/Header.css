@@ -38,3 +38,7 @@ ul li a:hover{
     color:rgb(149, 5, 5);
     text-shadow: 0.2px 0.2px 5px rgb(134, 126, 126);
 }
+
+.active{
+    color:rgb(149, 5, 5);
+}
