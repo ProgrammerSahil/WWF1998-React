@@ -3,3 +3,7 @@
     background-color: black;
     color:hsl(0, 0%, 68%);
 }
+
+.footer h5{
+    margin-top: 10px;
+}
