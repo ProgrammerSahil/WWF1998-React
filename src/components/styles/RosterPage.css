@@ -1,0 +1,9 @@
+.rosterPage{
+    display: flex;
+    flex-wrap: wrap;
+    padding:30px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: space-around;    
+}

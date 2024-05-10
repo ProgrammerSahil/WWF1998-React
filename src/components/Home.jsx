@@ -1,6 +1,6 @@
 import "./styles/Home.css"
 import Header from "./Header";
-import pageImage from "../assets/homePageImage.jpeg"
+import homePageImage from "../assets/homePageImage.jpeg"
 import EventCard from "./EventCard";
 import ShowCard from "./ShowCard";
 
@@ -8,7 +8,7 @@ function Home(props){
     return(
         <>
             <Header at="home"/>
-            <div className="Home" style={{backgroundImage : "url(" + pageImage + ")"}}>
+            <div className="Home" style={{backgroundImage : "url(" + homePageImage + ")"}}>
                 <h2 className="homeTitle">{props.homeTitle1}</h2>
                 <div className="eventDisplay">
                     <EventCard name="SummerSlam 1998" photo="summerslam98.jpg"/>
